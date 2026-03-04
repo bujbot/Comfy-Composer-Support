@@ -1,8 +1,9 @@
-# Comfy-Composer-Support
+# Comfy Composer Support
 Support repo for all things "Comfy Composer"
 
-# Comfy Composer
-## Created by Nik Stewart (assisted by AI)
+---
+
+### Comfy Composer, Created by Nik Stewart (assisted by AI)
 
 Comfy Composer is a music creation app that helps you slow down and **think deeper** about the music you are creating. It is designed to run on mobile devices and allows you to create music with your fingers alone.
 
@@ -14,6 +15,8 @@ Features include:
 * Basic time saving tools like auto chord creation and copy & paste
 
 I hope you enjoy it! Feedback is encouraged.
+
+---
 
 Release notes:
 ### v4.2 ###
@@ -27,6 +30,8 @@ Release notes:
 * Improved bar spacing for complex rhythms to prevent note/barline overlap
 * Cleaned up clef placement and rendering order (clefs now render on top of staff lines)
 * Comprehensive update to the in-app manual covering all features
+
+---
 
 ### v4.1 ###
 * Fixed tie note tail direction
